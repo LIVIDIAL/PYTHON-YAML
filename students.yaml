@@ -1,0 +1,50 @@
+students:
+- name: Aryan Sharma
+  age: 21
+  major: Computer Science
+  gpa: 3.7
+
+- name: Meera Kapoor
+  age: 22
+  major: Electrical Engineering
+  gpa: 3.4
+
+- name: Rohan Verma
+  age: 20
+  major: Mechanical Engineering
+  gpa: 3.1
+
+- name: Simran Kaur
+  age: 23
+  major: Business Administration
+  gpa: 3.9
+
+- name: Kunal Mehta
+  age: 19
+  major: Biotechnology
+  gpa: 2.8
+
+- name: Ananya Gupta
+  age: 21
+  major: Data Science
+  gpa: 3.6
+
+- name: Yash Malhotra
+  age: 22
+  major: Physics
+  gpa: 3.2
+
+- name: Priya Nair
+  age: 20
+  major: Economics
+  gpa: 3.5
+
+- name: Aditya Joshi
+  age: 23
+  major: Civil Engineering
+  gpa: 3.0
+
+- name: Sneha Rao
+  age: 21
+  major: Psychology
+  gpa: 3.8
